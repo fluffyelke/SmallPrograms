@@ -1,0 +1,7 @@
+Texture Enemies
+Size 16 16
+Scale 1.0 1.0
+|Type|Name|StartFrame|EndFrame|Row|FrameTime|FrameActionStart|FrameActionEnd|
+AnimationType Directional
+Animation Idle 0 1 1 0.2 -1 -1
+Animation Walk 0 1 1 0.1 -1 -1
